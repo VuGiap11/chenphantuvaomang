@@ -36,6 +36,7 @@ namespace chenphanntuvaomang
             for (int i = n; i >= k; i--)
             {
                 numbers[i] = numbers[i - 1];
+                numbers[k-1] = x;
             }
             Console.Write("mang sau khi chen phan tu: ");
             for (int i = 0; i <= n; i++)
