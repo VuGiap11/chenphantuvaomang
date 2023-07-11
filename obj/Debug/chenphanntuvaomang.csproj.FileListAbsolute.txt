@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\chenphanntuvaomang\bin\Debug\chenphanntuvaomang.exe.config
+C:\Users\tuan\Desktop\chenphanntuvaomang\bin\Debug\chenphanntuvaomang.exe
+C:\Users\tuan\Desktop\chenphanntuvaomang\bin\Debug\chenphanntuvaomang.pdb
+C:\Users\tuan\Desktop\chenphanntuvaomang\obj\Debug\chenphanntuvaomang.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\chenphanntuvaomang\obj\Debug\chenphanntuvaomang.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\chenphanntuvaomang\obj\Debug\chenphanntuvaomang.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\chenphanntuvaomang\obj\Debug\chenphanntuvaomang.exe
+C:\Users\tuan\Desktop\chenphanntuvaomang\obj\Debug\chenphanntuvaomang.pdb
